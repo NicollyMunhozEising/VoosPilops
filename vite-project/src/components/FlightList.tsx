@@ -19,7 +19,8 @@ interface Flight {
 
 const FlightList: React.FC = () => {
   const [flights, setFlights] = useState<Flight[]>([]);
-  const [setTotalBalance] = useState<number>(0);
+  const [totalBalance, setTotalBalance] = useState<number>(0);
+  console.log("Total balance:", totalBalance);
   const navigate = useNavigate();
 
   const [page] = useState<number>(1); // página fixa
@@ -146,3 +147,4 @@ const FlightList: React.FC = () => {
 };
 
 export default FlightList;
+
