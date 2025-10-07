@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react";
 import axios from "axios";
 import "./style.css";
 import { useNavigate } from "react-router-dom";
+const API_BASE = "/api"; 
 
 interface Flight {
   id: string;
@@ -34,7 +35,7 @@ const FlightList: React.FC = () => {
   const fetchFlights = async (pageNum: number) => {
     try {
       const resp = await axios.get(
-        `http://localhost:3030/flights?page=${pageNum}&limit=${limit}`
+        `${API_BASE}/flights?page=${pageNum}&limit=${limit}`
       );
       setFlights(resp.data.data);
     } catch (err) {
@@ -45,7 +46,7 @@ const FlightList: React.FC = () => {
 
   const fetchTotalBalance = async () => {
     try {
-      const resp = await axios.get("http://localhost:3030/totalBalance");
+      const resp = await axios.get("${API_BASE}/totalBalance");
       setTotalBalance(resp.data.totalBalance);
     } catch (err) {
       console.error("Erro ao buscar saldo acumulado:", err);
@@ -147,4 +148,3 @@ const FlightList: React.FC = () => {
 };
 
 export default FlightList;
-

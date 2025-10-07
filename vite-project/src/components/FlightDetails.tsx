@@ -8,6 +8,8 @@ import Estrela1 from "../assets/estrela1.svg";
 import Estrela2 from "../assets/estrela2.svg";
 import Trofeu from "../assets/trofeu.svg";
 
+const API_BASE = "/api"; 
+
 interface Flight {
   id: string;
   aircraft?: {
@@ -38,7 +40,7 @@ const FlightDetails: React.FC = () => {
   const fetchFlightById = async (flightId: string) => {
     try {
       const response = await axios.get<Flight>(
-        `http://localhost:3030/flights/${flightId}`
+        `${API_BASE}/flights/${flightId}`
       );
       setFlight(response.data);
     } catch (error) {
