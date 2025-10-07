@@ -8,7 +8,7 @@ import Estrela1 from "../assets/estrela1.svg";
 import Estrela2 from "../assets/estrela2.svg";
 import Trofeu from "../assets/trofeu.svg";
 
-const API_BASE = "/api"; 
+const API_BASE = "https://voos-pilops.vercel.app/api";
 
 interface Flight {
   id: string;
