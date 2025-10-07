@@ -1,0 +1,12 @@
+npm install ts-node typescript --save-dev
+npm install express cors
+npm install -D @types/express @types/cors
+
+
+npm run start
+
+npm install vite --save-dev
+
+npm run dev
+
+npm install --save-dev jest ts-jest @types/jest supertest @types/supertest
