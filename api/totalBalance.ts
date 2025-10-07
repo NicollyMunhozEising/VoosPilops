@@ -1,7 +1,6 @@
 import { VercelRequest, VercelResponse } from "@vercel/node";
 import fs from "fs";
 
-// Middleware CORS
 const allowCors = (fn: Function) => (req: VercelRequest, res: VercelResponse) => {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.setHeader("Access-Control-Allow-Methods", "GET,OPTIONS");
@@ -17,20 +16,11 @@ const flightData = JSON.parse(fs.readFileSync("flightHistory.json", "utf8"));
 
 const handler = (req: VercelRequest, res: VercelResponse) => {
   if (req.method === "GET") {
-    const page = parseInt(req.query.page as string) || 1;
-    const limit = parseInt(req.query.limit as string) || 10;
-    const start = (page - 1) * limit;
-    const end = page * limit;
+    const totalBalance = flightData.flights.reduce((acc: number, f: any) => {
+      return acc + (f.flightData?.balance || 0);
+    }, 0);
 
-    const data = flightData.flights.slice(start, end);
-
-    res.status(200).json({
-      page,
-      limit,
-      total: flightData.flights.length,
-      pages: Math.ceil(flightData.flights.length / limit),
-      data
-    });
+    res.status(200).json({ totalBalance });
   } else {
     res.status(405).json({ message: "Método não permitido" });
   }
