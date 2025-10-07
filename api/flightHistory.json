@@ -1,0 +1,1804 @@
+{
+    "flights": [
+        {
+            "id": "FL-001",
+            "aircraft": {
+                "name": "Cessna 172 G1000",
+                "registration": "PR-PNK",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-07-22",
+                "balance": 1065,
+                "route": {
+                    "from": "SBRJ",
+                    "to": "SBFZ"
+                },
+                "xp": 445,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-002",
+            "aircraft": {
+                "name": "Beechcraft Baron 58",
+                "registration": "PR-MBU",
+                "airline": "Pilops Charter"
+            },
+            "flightData": {
+                "date": "2025-07-20",
+                "balance": -1697,
+                "route": {
+                    "from": "SBGL",
+                    "to": "SBSP"
+                },
+                "xp": 435,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-003",
+            "aircraft": {
+                "name": "Beechcraft Baron 58",
+                "registration": "PR-ZZT",
+                "airline": "Pilops Charter"
+            },
+            "flightData": {
+                "date": "2025-06-01",
+                "balance": -1904,
+                "route": {
+                    "from": "SBRJ",
+                    "to": "SBGL"
+                },
+                "xp": 570,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-004",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-ZWL",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-06-08",
+                "balance": 3588,
+                "route": {
+                    "from": "SBGR",
+                    "to": "SBSP"
+                },
+                "xp": 70,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-005",
+            "aircraft": {
+                "name": "Airbus A320neo",
+                "registration": "PR-QDT",
+                "airline": "Pilops Connect"
+            },
+            "flightData": {
+                "date": "2025-07-09",
+                "balance": -2235,
+                "route": {
+                    "from": "SBVT",
+                    "to": "SBME"
+                },
+                "xp": 195,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-006",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-HSP",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-08-10",
+                "balance": -4999,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBSP"
+                },
+                "xp": 402,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-007",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-PET",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-06-27",
+                "balance": -1838,
+                "route": {
+                    "from": "SBPA",
+                    "to": "SBRJ"
+                },
+                "xp": 281,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-008",
+            "aircraft": {
+                "name": "Cessna 172 G1000",
+                "registration": "PR-WXO",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-08-27",
+                "balance": -4370,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBVT"
+                },
+                "xp": 395,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-009",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-UAC",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-07-18",
+                "balance": -4652,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBGR"
+                },
+                "xp": 443,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-010",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-GCH",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-07-30",
+                "balance": -2566,
+                "route": {
+                    "from": "SBVT",
+                    "to": "SBRJ"
+                },
+                "xp": 420,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-011",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-JRD",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-08-12",
+                "balance": 931.9218978947,
+                "route": {
+                    "from": "SBVT",
+                    "to": "SBSP"
+                },
+                "xp": 450,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-012",
+            "aircraft": {
+                "name": "Boeing 737-800",
+                "registration": "PR-YPX",
+                "airline": "Pilops Air"
+            },
+            "flightData": {
+                "date": "2025-08-16",
+                "balance": 1819,
+                "route": {
+                    "from": "SBGL",
+                    "to": "SBFZ"
+                },
+                "xp": 98,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-013",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-COD",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-07-22",
+                "balance": 136,
+                "route": {
+                    "from": "SBPA",
+                    "to": "SBGL"
+                },
+                "xp": 364,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-014",
+            "aircraft": {
+                "name": "Beechcraft Baron 58",
+                "registration": "PR-EIN",
+                "airline": "Pilops Charter"
+            },
+            "flightData": {
+                "date": "2025-07-09",
+                "balance": 542,
+                "route": {
+                    "from": "SBRJ",
+                    "to": "SBSP"
+                },
+                "xp": 288,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-015",
+            "aircraft": {
+                "name": "Airbus A320neo",
+                "registration": "PR-DCB",
+                "airline": "Pilops Connect"
+            },
+            "flightData": {
+                "date": "2025-08-25",
+                "balance": 637.8856726827,
+                "route": {
+                    "from": "SBPA",
+                    "to": "SBSP"
+                },
+                "xp": 490,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-016",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-ATU",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-06-17",
+                "balance": 1723,
+                "route": {
+                    "from": "SBRJ",
+                    "to": "SBGL"
+                },
+                "xp": 325,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-017",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-MVH",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-06-30",
+                "balance": 4381,
+                "route": {
+                    "from": "SBGR",
+                    "to": "SBME"
+                },
+                "xp": 135,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-018",
+            "aircraft": {
+                "name": "Beechcraft Baron 58",
+                "registration": "PR-TZC",
+                "airline": "Pilops Charter"
+            },
+            "flightData": {
+                "date": "2025-07-06",
+                "balance": 2574,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBPA"
+                },
+                "xp": 380,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-019",
+            "aircraft": {
+                "name": "Diamond DA40NG",
+                "registration": "PR-GZB",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-07-02",
+                "balance": -70,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBSP"
+                },
+                "xp": 381,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-020",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-NNI",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-06-19",
+                "balance": 4769.5716165734,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBGR"
+                },
+                "xp": 479,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-021",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-ODN",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-06-01",
+                "balance": 264,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBRJ"
+                },
+                "xp": 569,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-022",
+            "aircraft": {
+                "name": "Airbus A320neo",
+                "registration": "PR-ITI",
+                "airline": "Pilops Connect"
+            },
+            "flightData": {
+                "date": "2025-08-30",
+                "balance": 2948.9106840059,
+                "route": {
+                    "from": "SBVT",
+                    "to": "SBFZ"
+                },
+                "xp": 585,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-023",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-FII",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-09-02",
+                "balance": 1099.2169331086,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBPA"
+                },
+                "xp": 337,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-024",
+            "aircraft": {
+                "name": "Diamond DA40NG",
+                "registration": "PR-PLZ",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-07-27",
+                "balance": 4627,
+                "route": {
+                    "from": "SBGL",
+                    "to": "SBPA"
+                },
+                "xp": 100,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-025",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-YXZ",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-08-24",
+                "balance": 826,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBPA"
+                },
+                "xp": 492,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-026",
+            "aircraft": {
+                "name": "Airbus A320neo",
+                "registration": "PR-PSE",
+                "airline": "Pilops Connect"
+            },
+            "flightData": {
+                "date": "2025-08-10",
+                "balance": 3052.0647585977,
+                "route": {
+                    "from": "SBFZ",
+                    "to": "SBSP"
+                },
+                "xp": 147,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-027",
+            "aircraft": {
+                "name": "Boeing 737-800",
+                "registration": "PR-VTG",
+                "airline": "Pilops Air"
+            },
+            "flightData": {
+                "date": "2025-08-17",
+                "balance": 2131.2812184891,
+                "route": {
+                    "from": "SBFZ",
+                    "to": "SBGL"
+                },
+                "xp": 52,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-028",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-HAW",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-07-11",
+                "balance": 708.2580191653,
+                "route": {
+                    "from": "SBPA",
+                    "to": "SBVT"
+                },
+                "xp": 498,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-029",
+            "aircraft": {
+                "name": "Boeing 737-800",
+                "registration": "PR-UZT",
+                "airline": "Pilops Air"
+            },
+            "flightData": {
+                "date": "2025-07-03",
+                "balance": 2156.7123734821,
+                "route": {
+                    "from": "SBPA",
+                    "to": "SBGR"
+                },
+                "xp": 443,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-030",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-MPN",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-09-07",
+                "balance": 4805,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBGR"
+                },
+                "xp": 240,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-031",
+            "aircraft": {
+                "name": "Airbus A320neo",
+                "registration": "PR-YXN",
+                "airline": "Pilops Connect"
+            },
+            "flightData": {
+                "date": "2025-07-24",
+                "balance": 2692,
+                "route": {
+                    "from": "SBGR",
+                    "to": "SBFZ"
+                },
+                "xp": 600,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-032",
+            "aircraft": {
+                "name": "Boeing 737-800",
+                "registration": "PR-DKG",
+                "airline": "Pilops Air"
+            },
+            "flightData": {
+                "date": "2025-06-21",
+                "balance": 4540.2724569293,
+                "route": {
+                    "from": "SBVT",
+                    "to": "SBSP"
+                },
+                "xp": 455,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-033",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-OVU",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-07-09",
+                "balance": 4067,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBGR"
+                },
+                "xp": 303,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-034",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-AQM",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-06-30",
+                "balance": 4056,
+                "route": {
+                    "from": "SBFZ",
+                    "to": "SBME"
+                },
+                "xp": 211,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-035",
+            "aircraft": {
+                "name": "Diamond DA40NG",
+                "registration": "PR-QXG",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-08-08",
+                "balance": 1161,
+                "route": {
+                    "from": "SBFZ",
+                    "to": "SBGL"
+                },
+                "xp": 196,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-036",
+            "aircraft": {
+                "name": "Airbus A320neo",
+                "registration": "PR-EVC",
+                "airline": "Pilops Connect"
+            },
+            "flightData": {
+                "date": "2025-06-18",
+                "balance": -474.6321752709,
+                "route": {
+                    "from": "SBGR",
+                    "to": "SBVT"
+                },
+                "xp": 500,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-037",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-QTP",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-06-26",
+                "balance": 599.913489245,
+                "route": {
+                    "from": "SBGR",
+                    "to": "SBFZ"
+                },
+                "xp": 259,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-038",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-KSM",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-06-20",
+                "balance": -275,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBGR"
+                },
+                "xp": 156,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-039",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-OKY",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-06-18",
+                "balance": 3869,
+                "route": {
+                    "from": "SBGL",
+                    "to": "SBPA"
+                },
+                "xp": 188,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-040",
+            "aircraft": {
+                "name": "Airbus A320neo",
+                "registration": "PR-AVB",
+                "airline": "Pilops Connect"
+            },
+            "flightData": {
+                "date": "2025-06-03",
+                "balance": 4102,
+                "route": {
+                    "from": "SBGR",
+                    "to": "SBPA"
+                },
+                "xp": 376,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-041",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-RDH",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-08-06",
+                "balance": 1173,
+                "route": {
+                    "from": "SBGL",
+                    "to": "SBFZ"
+                },
+                "xp": 227,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-042",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-BMB",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-09-06",
+                "balance": 2917.8063794494,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBVT"
+                },
+                "xp": 88,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-043",
+            "aircraft": {
+                "name": "Diamond DA40NG",
+                "registration": "PR-NAV",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-07-03",
+                "balance": 370,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBGR"
+                },
+                "xp": 87,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-044",
+            "aircraft": {
+                "name": "Cessna 172 G1000",
+                "registration": "PR-RER",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-09-01",
+                "balance": -399,
+                "route": {
+                    "from": "SBPA",
+                    "to": "SBFZ"
+                },
+                "xp": 237,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-045",
+            "aircraft": {
+                "name": "Cessna 172 G1000",
+                "registration": "PR-KQB",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-07-19",
+                "balance": 1826,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBGR"
+                },
+                "xp": 571,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-046",
+            "aircraft": {
+                "name": "Airbus A320neo",
+                "registration": "PR-OIQ",
+                "airline": "Pilops Connect"
+            },
+            "flightData": {
+                "date": "2025-09-09",
+                "balance": 3930.0306513819,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBGL"
+                },
+                "xp": 145,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-047",
+            "aircraft": {
+                "name": "Diamond DA40NG",
+                "registration": "PR-LLU",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-08-03",
+                "balance": 1546,
+                "route": {
+                    "from": "SBRJ",
+                    "to": "SBPA"
+                },
+                "xp": 510,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-048",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-HRB",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-06-30",
+                "balance": 4339.829396792,
+                "route": {
+                    "from": "SBGL",
+                    "to": "SBGR"
+                },
+                "xp": 232,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-049",
+            "aircraft": {
+                "name": "Boeing 737-800",
+                "registration": "PR-TXX",
+                "airline": "Pilops Air"
+            },
+            "flightData": {
+                "date": "2025-08-01",
+                "balance": 1241,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBFZ"
+                },
+                "xp": 69,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-050",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-KRJ",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-06-23",
+                "balance": 1209,
+                "route": {
+                    "from": "SBFZ",
+                    "to": "SBPA"
+                },
+                "xp": 405,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-051",
+            "aircraft": {
+                "name": "Airbus A320neo",
+                "registration": "PR-VZT",
+                "airline": "Pilops Connect"
+            },
+            "flightData": {
+                "date": "2025-08-03",
+                "balance": 2674,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBGL"
+                },
+                "xp": 415,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-052",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-TZY",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-06-08",
+                "balance": 30,
+                "route": {
+                    "from": "SBGL",
+                    "to": "SBME"
+                },
+                "xp": 84,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-053",
+            "aircraft": {
+                "name": "Beechcraft Baron 58",
+                "registration": "PR-OSK",
+                "airline": "Pilops Charter"
+            },
+            "flightData": {
+                "date": "2025-08-30",
+                "balance": 3309,
+                "route": {
+                    "from": "SBGR",
+                    "to": "SBPA"
+                },
+                "xp": 413,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-054",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-GAG",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-06-12",
+                "balance": 4023,
+                "route": {
+                    "from": "SBFZ",
+                    "to": "SBRJ"
+                },
+                "xp": 535,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-055",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-IKT",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-06-17",
+                "balance": 2990.7178017019,
+                "route": {
+                    "from": "SBGL",
+                    "to": "SBVT"
+                },
+                "xp": 160,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-056",
+            "aircraft": {
+                "name": "Boeing 737-800",
+                "registration": "PR-BXM",
+                "airline": "Pilops Air"
+            },
+            "flightData": {
+                "date": "2025-07-01",
+                "balance": 94,
+                "route": {
+                    "from": "SBVT",
+                    "to": "SBSP"
+                },
+                "xp": 189,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-057",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-YFW",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-06-07",
+                "balance": 3487,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBGR"
+                },
+                "xp": 113,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-058",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-KBS",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-08-17",
+                "balance": 3045.9331087255,
+                "route": {
+                    "from": "SBFZ",
+                    "to": "SBPA"
+                },
+                "xp": 269,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-059",
+            "aircraft": {
+                "name": "Diamond DA40NG",
+                "registration": "PR-YYV",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-06-28",
+                "balance": 518,
+                "route": {
+                    "from": "SBRJ",
+                    "to": "SBPA"
+                },
+                "xp": 107,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-060",
+            "aircraft": {
+                "name": "Beechcraft Baron 58",
+                "registration": "PR-VXJ",
+                "airline": "Pilops Charter"
+            },
+            "flightData": {
+                "date": "2025-07-28",
+                "balance": 4614,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBPA"
+                },
+                "xp": 497,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-061",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-LYT",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-06-25",
+                "balance": 865,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBVT"
+                },
+                "xp": 168,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-062",
+            "aircraft": {
+                "name": "Diamond DA40NG",
+                "registration": "PR-FSA",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-06-12",
+                "balance": 1604.6292994751,
+                "route": {
+                    "from": "SBRJ",
+                    "to": "SBVT"
+                },
+                "xp": 257,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-063",
+            "aircraft": {
+                "name": "Airbus A320neo",
+                "registration": "PR-GDA",
+                "airline": "Pilops Connect"
+            },
+            "flightData": {
+                "date": "2025-07-01",
+                "balance": 2786,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBFZ"
+                },
+                "xp": 371,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-064",
+            "aircraft": {
+                "name": "Boeing 737-800",
+                "registration": "PR-IKC",
+                "airline": "Pilops Air"
+            },
+            "flightData": {
+                "date": "2025-08-01",
+                "balance": 2408,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBVT"
+                },
+                "xp": 271,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-065",
+            "aircraft": {
+                "name": "Beechcraft Baron 58",
+                "registration": "PR-FID",
+                "airline": "Pilops Charter"
+            },
+            "flightData": {
+                "date": "2025-07-19",
+                "balance": 4600.875777563,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBGR"
+                },
+                "xp": 330,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-066",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-WFQ",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-07-20",
+                "balance": 3549,
+                "route": {
+                    "from": "SBRJ",
+                    "to": "SBGL"
+                },
+                "xp": 77,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-067",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-JFT",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-09-09",
+                "balance": 4943,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBFZ"
+                },
+                "xp": 125,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-068",
+            "aircraft": {
+                "name": "Beechcraft Baron 58",
+                "registration": "PR-NJN",
+                "airline": "Pilops Charter"
+            },
+            "flightData": {
+                "date": "2025-07-02",
+                "balance": 3888,
+                "route": {
+                    "from": "SBRJ",
+                    "to": "SBGR"
+                },
+                "xp": 339,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-069",
+            "aircraft": {
+                "name": "Cessna 172 G1000",
+                "registration": "PR-VLO",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-08-11",
+                "balance": 3318,
+                "route": {
+                    "from": "SBGR",
+                    "to": "SBRJ"
+                },
+                "xp": 426,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-070",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-LSR",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-07-31",
+                "balance": 4879.9755547663,
+                "route": {
+                    "from": "SBFZ",
+                    "to": "SBPA"
+                },
+                "xp": 345,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-071",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-ITX",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-08-12",
+                "balance": 4080,
+                "route": {
+                    "from": "SBVT",
+                    "to": "SBSP"
+                },
+                "xp": 136,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-072",
+            "aircraft": {
+                "name": "Diamond DA40NG",
+                "registration": "PR-FZL",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-08-21",
+                "balance": 3988.4953268937,
+                "route": {
+                    "from": "SBRJ",
+                    "to": "SBME"
+                },
+                "xp": 596,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-073",
+            "aircraft": {
+                "name": "Beechcraft Baron 58",
+                "registration": "PR-MQV",
+                "airline": "Pilops Charter"
+            },
+            "flightData": {
+                "date": "2025-07-06",
+                "balance": 1110,
+                "route": {
+                    "from": "SBVT",
+                    "to": "SBPA"
+                },
+                "xp": 534,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-074",
+            "aircraft": {
+                "name": "Beechcraft Baron 58",
+                "registration": "PR-PMQ",
+                "airline": "Pilops Charter"
+            },
+            "flightData": {
+                "date": "2025-07-27",
+                "balance": 2725,
+                "route": {
+                    "from": "SBVT",
+                    "to": "SBFZ"
+                },
+                "xp": 561,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-075",
+            "aircraft": {
+                "name": "Cessna 172 G1000",
+                "registration": "PR-ZUT",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-09-08",
+                "balance": 4487,
+                "route": {
+                    "from": "SBGR",
+                    "to": "SBVT"
+                },
+                "xp": 110,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-076",
+            "aircraft": {
+                "name": "Diamond DA40NG",
+                "registration": "PR-UXG",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-06-28",
+                "balance": 1967,
+                "route": {
+                    "from": "SBRJ",
+                    "to": "SBSP"
+                },
+                "xp": 99,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-077",
+            "aircraft": {
+                "name": "Boeing 737-800",
+                "registration": "PR-ZLE",
+                "airline": "Pilops Air"
+            },
+            "flightData": {
+                "date": "2025-07-02",
+                "balance": 4864,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBRJ"
+                },
+                "xp": 491,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-078",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-TBK",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-06-17",
+                "balance": 3836,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBRJ"
+                },
+                "xp": 493,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-079",
+            "aircraft": {
+                "name": "Cessna 172 G1000",
+                "registration": "PR-BJK",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-07-16",
+                "balance": 582,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBVT"
+                },
+                "xp": 541,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-080",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-SXL",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-06-21",
+                "balance": -42,
+                "route": {
+                    "from": "SBGR",
+                    "to": "SBGL"
+                },
+                "xp": 589,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-081",
+            "aircraft": {
+                "name": "Diamond DA40NG",
+                "registration": "PR-PCX",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-09-01",
+                "balance": 764.2082265028,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBSP"
+                },
+                "xp": 329,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-082",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-MIJ",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-08-21",
+                "balance": 4330,
+                "route": {
+                    "from": "SBPA",
+                    "to": "SBGL"
+                },
+                "xp": 130,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-083",
+            "aircraft": {
+                "name": "Diamond DA40NG",
+                "registration": "PR-IND",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-08-29",
+                "balance": 2601,
+                "route": {
+                    "from": "SBPA",
+                    "to": "SBRJ"
+                },
+                "xp": 153,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-084",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-CKZ",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-07-04",
+                "balance": 2185,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBRJ"
+                },
+                "xp": 182,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-085",
+            "aircraft": {
+                "name": "Diamond DA40NG",
+                "registration": "PR-EQF",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-07-27",
+                "balance": 2131,
+                "route": {
+                    "from": "SBVT",
+                    "to": "SBRJ"
+                },
+                "xp": 407,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-086",
+            "aircraft": {
+                "name": "Bombardier Dash 8 Q400",
+                "registration": "PR-MJP",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-08-26",
+                "balance": 4588,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBGR"
+                },
+                "xp": 513,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-087",
+            "aircraft": {
+                "name": "Airbus A320neo",
+                "registration": "PR-XER",
+                "airline": "Pilops Connect"
+            },
+            "flightData": {
+                "date": "2025-07-24",
+                "balance": 1041,
+                "route": {
+                    "from": "SBFZ",
+                    "to": "SBPA"
+                },
+                "xp": 71,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-088",
+            "aircraft": {
+                "name": "Diamond DA40NG",
+                "registration": "PR-RCJ",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-07-09",
+                "balance": -417.2392448928,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBRJ"
+                },
+                "xp": 263,
+                "missionBonus": 0.15
+            }
+        },
+        {
+            "id": "FL-089",
+            "aircraft": {
+                "name": "Boeing 737-800",
+                "registration": "PR-EKA",
+                "airline": "Pilops Air"
+            },
+            "flightData": {
+                "date": "2025-07-23",
+                "balance": 3110,
+                "route": {
+                    "from": "SBRJ",
+                    "to": "SBPA"
+                },
+                "xp": 370,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-090",
+            "aircraft": {
+                "name": "Airbus A320neo",
+                "registration": "PR-MIX",
+                "airline": "Pilops Connect"
+            },
+            "flightData": {
+                "date": "2025-06-04",
+                "balance": 4131,
+                "route": {
+                    "from": "SBFZ",
+                    "to": "SBSP"
+                },
+                "xp": 156,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-091",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-PQI",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-08-14",
+                "balance": 461,
+                "route": {
+                    "from": "SBFZ",
+                    "to": "SBME"
+                },
+                "xp": 471,
+                "missionBonus": 0.2
+            }
+        },
+        {
+            "id": "FL-092",
+            "aircraft": {
+                "name": "Boeing 737-800",
+                "registration": "PR-OHN",
+                "airline": "Pilops Air"
+            },
+            "flightData": {
+                "date": "2025-07-22",
+                "balance": 4611,
+                "route": {
+                    "from": "SBFZ",
+                    "to": "SBGR"
+                },
+                "xp": 329,
+                "missionBonus": 0
+            }
+        },
+        {
+            "id": "FL-093",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-FZP",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-07-22",
+                "balance": 429,
+                "route": {
+                    "from": "SBVT",
+                    "to": "SBME"
+                },
+                "xp": 207,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-094",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-APH",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-08-07",
+                "balance": 718,
+                "route": {
+                    "from": "SBGR",
+                    "to": "SBSP"
+                },
+                "xp": 412,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-095",
+            "aircraft": {
+                "name": "Cessna 172 G1000",
+                "registration": "PR-LPE",
+                "airline": "Pilops Academy"
+            },
+            "flightData": {
+                "date": "2025-06-14",
+                "balance": 912,
+                "route": {
+                    "from": "SBVT",
+                    "to": "SBFZ"
+                },
+                "xp": 474,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-096",
+            "aircraft": {
+                "name": "Beechcraft Baron 58",
+                "registration": "PR-LPQ",
+                "airline": "Pilops Charter"
+            },
+            "flightData": {
+                "date": "2025-06-27",
+                "balance": 4716.2348610018,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBFZ"
+                },
+                "xp": 302,
+                "missionBonus": 0.1
+            }
+        },
+        {
+            "id": "FL-097",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-FKL",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-06-20",
+                "balance": 799,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBGL"
+                },
+                "xp": 259,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-098",
+            "aircraft": {
+                "name": "ATR 72",
+                "registration": "PR-XBZ",
+                "airline": "Pilops Regional"
+            },
+            "flightData": {
+                "date": "2025-09-07",
+                "balance": 1825,
+                "route": {
+                    "from": "SBFZ",
+                    "to": "SBSP"
+                },
+                "xp": 189,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-099",
+            "aircraft": {
+                "name": "Boeing 737-800",
+                "registration": "PR-MFF",
+                "airline": "Pilops Air"
+            },
+            "flightData": {
+                "date": "2025-06-02",
+                "balance": 434,
+                "route": {
+                    "from": "SBME",
+                    "to": "SBPA"
+                },
+                "xp": 246,
+                "missionBonus": 0.05
+            }
+        },
+        {
+            "id": "FL-100",
+            "aircraft": {
+                "name": "Pilatus PC-12",
+                "registration": "PR-VFT",
+                "airline": "Pilops Cargo"
+            },
+            "flightData": {
+                "date": "2025-07-08",
+                "balance": 1924,
+                "route": {
+                    "from": "SBSP",
+                    "to": "SBGR"
+                },
+                "xp": 353,
+                "missionBonus": 0.05
+            }
+        }
+    ]
+}
